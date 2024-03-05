@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Torneo Tekken 8</string>
+    <string name="asignar_personajes_aleatoriamente">Asignar Personajes Aleatoriamente</string>
+    <string name="cambiar_personaje_osiris">Cambiar Personaje Jugador 1</string>
+    <string name="cambiar_personaje_narasayumi">Cambiar Personaje Jugador 2</string>
+    <string name="cambiar_personaje_tanakillo">Cambiar Personaje Jugador 3</string>
+    <string name="cambiar_personaje_dar_o">Cambiar Personaje Jugador 4</string>
+    <string name="seleccionar_ganador">Seleccionar Ganador</string>
+    <string name="ver_victorias">Ver victorias</string>
+    <string name="reiniciar_victorias">Reiniciar Victorias</string>
+</resources>
