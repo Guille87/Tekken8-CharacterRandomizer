@@ -1,4 +1,4 @@
-package com.example.torneotekken;
+package com.example.torneotekken.models;
 
 public class Jugador {
     private String nombre;
