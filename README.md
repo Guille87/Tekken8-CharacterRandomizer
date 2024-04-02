@@ -21,4 +21,4 @@ Consulta el registro de victorias para ver el desempeño de cada jugador.
 ## Contribución
 ¡Contribuciones son bienvenidas! Si encuentras algún problema, tienes sugerencias de mejoras o deseas contribuir con código, no dudes en abrir un issue o enviar un pull request.
 # Contacto
-Para cualquier pregunta o comentario, puedes contactarme en guillermo_amado@hotmail.com.
+Para cualquier pregunta o comentario, puedes contactarme en guillermo_amado@hotmail.es.
